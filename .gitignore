@@ -1,0 +1,8 @@
+# Esta linea es ignorada por el "#" y las lineas en 
+# blanco tambien son ignoradas
+
+*.kt
+*[oa]
+*~
+basededatos/
+imagenes/
