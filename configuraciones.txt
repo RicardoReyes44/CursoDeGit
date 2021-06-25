@@ -1,1 +1,1 @@
-Este es un archivo en el pondremos las configuraciones que queramos
+Este es un archivo de configuraciones
