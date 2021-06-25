@@ -1,1 +1,1 @@
-Este es un archivo README para pruebas
+Este es un archivo README
