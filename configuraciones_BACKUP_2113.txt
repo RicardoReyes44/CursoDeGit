@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Este es un archivo de configuraciones donde pondremos lo relacionado a ello
+=======
+Aqui van las configuraciones
+>>>>>>> testing
