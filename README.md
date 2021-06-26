@@ -1,1 +1,2 @@
-Este es un archivo README donde colocaremos cosas a dar a conocer en el proyecto
+Este es un archivo README para pruebas
+
